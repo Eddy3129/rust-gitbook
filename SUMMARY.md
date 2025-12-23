@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Generic & Traits](README.md)
+* [Generic & Traits](GENERICS_AND_TRAITS.md)
