@@ -1,5 +1,7 @@
-# Docs
+# README
 
 📘 Read the documentation in GitBook.
 
-➡️ Start here: [Generic and Traits](GENERICS_AND_TRAITS.md)
+➡️ [Generic & Traits](GENERICS_AND_TRAITS.md)
+
+➡️ [Iterators & Adapters](iterators-and-adapters.md)

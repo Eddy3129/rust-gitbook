@@ -11,7 +11,7 @@ coverY: 25.776144196883244
 
 ## Generics \<T>
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 The main purpose of generics is to reduce code duplication. This allows us to use the same function signatures and behaviors for different concrete type parameters. One example is shown below:
 
@@ -47,7 +47,7 @@ This saves us distinct time by allowing us to reuse functions without declaring 
 
 ## Inherent Implementation
 
-<figure><img src=".gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Rust has a clear separation of type declaration (Data) and behavior declaration (Logic). It is impossible to declare functions inside a struct block like you would in a [Java class](https://www.w3schools.com/java/java_class_methods.asp).
 
@@ -570,7 +570,7 @@ Congratulations! If you have made it this far and understood the "Final Boss" ex
 
 This guide is  my first attempt at documenting these complex topics. I hope it has helped demystify the syntax and logic behind Rust's type system.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### The Recap: What We Achieved
 
